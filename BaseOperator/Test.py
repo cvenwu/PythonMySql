@@ -21,7 +21,6 @@ finally:
 print(connection.charset)
 print(connection.server_status)
 
-## 注释
 
 
 
